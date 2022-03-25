@@ -53,6 +53,31 @@ function reverseWords(str) {
 ```
 -----------------------------
 
+### **Education:**
+```
+Minsk 					        Faculty of Cultural Studies and Social and Cultural Activities
+2013 - 2017				        Belarusian State University of Culture and Arts (BSUCA)
+```
 
+```
+Minsk 					        Front End Developer
+April 2020 - November 2020		TeachMeSkills
+
+```
+-----------------------------
+
+### **Languages:**
+
+#### **English**
+Intermediate
+
+#### **Russian**
+Native proficiency
+
+#### **Belarusian**
+Native proficiency
+
+-----------------------------
+-----------------------------
 
 
