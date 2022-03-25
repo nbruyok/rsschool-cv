@@ -28,3 +28,20 @@ Nastya Bruyok (@nbruyok)
 
 -----------------------------
 
+### **Skills:**
+
+- Git
+- HTML
+- CSS
+- JavaScript
+- Webpack
+- Gulp
+- Jest
+- Babel
+- React
+- Redux
+
+-----------------------------
+
+
+
